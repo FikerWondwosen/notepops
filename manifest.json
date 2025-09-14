@@ -1,0 +1,22 @@
+{
+    "manifest_version" : 3,
+    "name": "Notepops",
+    "version": "1.0",
+
+    "description": "Notepops is a sidebar extention that allows the user to write and edit their notes.",
+
+
+    "icons": {
+        "48": "icons/notepops-48.png"
+    },
+
+    "permissions": ["storage", "tabs"],
+
+    "sidebar_actions" : {
+        "default_name": "notepops",
+        "default_icon": "icons/notepops.png",
+        "default_panel": "sidebar/panel.html" 
+    }
+
+
+}
