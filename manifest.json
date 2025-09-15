@@ -12,8 +12,8 @@
 
     "permissions": ["storage", "tabs"],
 
-    "sidebar_actions" : {
-        "default_name": "notepops",
+    "sidebar_action" : {
+        "default_title": "Notepops",
         "default_icon": "icons/notepops.png",
         "default_panel": "sidebar/panel.html" 
     }
