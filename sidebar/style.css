@@ -1,0 +1,8 @@
+#contentArea {
+    /* border: 5px solid red; */
+    height:500px;
+    width:auto;
+    border: 3px solid #000000;
+    overflow-wrap: break-word;
+}
+
