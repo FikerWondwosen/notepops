@@ -3,8 +3,8 @@ Notepops is a note taking extention for the firefox browser. Notepops will open 
 Objectives 0.1:
 
 1. Allow for custumizing text by bolding, italizing, underlineing and more.
-2. save all the note the user makes and reload them one the user closes the extention.
-3. work in many websites. 
+2. save all the note and load it agian when the user opens it again.
+3. Be compatable with many websites if not all. 
 
 
 Current state: on pause (learning more about JS before I continue).
